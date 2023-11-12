@@ -55,9 +55,9 @@ I'm currently dedicating my efforts to creating cutting-edge real estate website
 
 ## 📫 Let's Connect
 
-- Portfolio: [[Your Portfolio](#)](https://saidbara.com/)
+- Portfolio: https://saidbara.com
 - Email: anisanissou2003@gmail.com
-- Instagram: [[Your LinkedIn Profile](#)](https://www.instagram.com/zyrox03/)
+- Instagram: https://www.instagram.com/zyrox03
 
 ## 🤝 Open to Collaborate
 
